@@ -17,6 +17,15 @@
 2)Appending allows us to combine two tables Horizontally based on the column names and type.
 Here if there are additional customers name that I have to add , I will create a new table called customer_ising , and then I'll append it with the table_customer, having common attribute Cust_iD
 ![Screenshot 2024-09-26 215622](https://github.com/user-attachments/assets/c1e33df5-592a-4492-93e0-73639278857c)
+# Insights
+1) These are the virtual representation of the data set , it includes the sum of the bill amount by the customer, sum of the quantity of food oordered on the respective dates, total order value, sum of the large order value (>500 $), min order value ,max order value, count of the order, average order
+2) I Used DAX formulas such as SUM , CALCULATE, DIVIDE, MIN, MAX
+![Screenshot 2024-09-27 002645](https://github.com/user-attachments/assets/b28a5a69-5906-4dd4-8400-339af20a9ba9)
+
+3) These aare the insights for Cust_Id 2
+![Screenshot 2024-09-27 002851](https://github.com/user-attachments/assets/44b95876-f3de-445f-9222-22378d07b662)
+
+
 
 
 
