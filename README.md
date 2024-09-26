@@ -8,8 +8,8 @@
 ![Screenshot 2024-09-26 211637](https://github.com/user-attachments/assets/aef31af3-174d-4d85-af0d-1e36e8abe60c)
 2)This is the exactly as report view but in mobile layout format
 ![Screenshot 2024-09-26 211707](https://github.com/user-attachments/assets/0cbeff54-092c-447d-8e61-f34cf11823a6)
-# Diagram View
-1)This is the diagram view ,we can define relationships between tables by connecting the common column , thus defining a relationship between the whole dataset , so that we can acess , modify it as per our requirements
+# Data Model
+1)This is the Data Model ,we can define relationships between tables by connecting the common column , thus defining a relationship between the whole dataset , so that we can acess , modify it as per our requirements
 ![Screenshot 2024-09-26 211543](https://github.com/user-attachments/assets/f1ee4b65-21ff-4493-918b-823be4c58b42)
 # Merging And Appending
 1)merging allows us to combine two tables vertically based on the common column, here I have merged both the colums , and extracted customer_name from table_customers and imported it to table_orders
