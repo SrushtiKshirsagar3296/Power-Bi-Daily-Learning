@@ -25,6 +25,11 @@ Here if there are additional customers name that I have to add , I will create a
 3) These aare the insights for Cust_Id 2
 ![Screenshot 2024-09-27 002851](https://github.com/user-attachments/assets/44b95876-f3de-445f-9222-22378d07b662)
 
+# Practicing basic Visualization tools
+1) Used Stacked Bar Chart , Matrix ( the basic difference between matrix and table is we can add multiple rows and columns in matrix unlike table ), Slicer( commonly used to view insights for a particular entity ) and Pie Chart .
+![Screenshot 2024-09-27 012645](https://github.com/user-attachments/assets/ce0027b3-2084-42ee-9afd-2bdb3794e296)
+
+
 
 
 
