@@ -30,6 +30,15 @@ Here if there are additional customers name that I have to add , I will create a
 1) Used Stacked Bar Chart , Matrix ( the basic difference between matrix and table is we can add multiple rows and columns in matrix unlike table ), Slicer( commonly used to view insights for a particular entity ) and Pie Chart .
 ![Screenshot 2024-09-27 012645](https://github.com/user-attachments/assets/ce0027b3-2084-42ee-9afd-2bdb3794e296)
 
+# Practice Excercise 1
+This is the practice excercise provided to me, covering all the previous concepts I learned.
+![Screenshot 2024-09-28 223235](https://github.com/user-attachments/assets/0e067375-c319-4b9a-8d57-4574ba8a41cd)
+
+I have successfully completed all the tasks mentioned in practice excercise 1 , and these are the insights I obtained from it .
+
+![Screenshot 2024-09-28 223204](https://github.com/user-attachments/assets/38a50ebe-f615-4af1-8f8a-5ff8cb018faf)
+
+
 
 
 
