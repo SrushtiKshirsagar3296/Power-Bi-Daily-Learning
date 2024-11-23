@@ -38,6 +38,14 @@ I have successfully completed all the tasks mentioned in practice excercise 1 , 
 
 ![Screenshot 2024-09-28 223204](https://github.com/user-attachments/assets/38a50ebe-f615-4af1-8f8a-5ff8cb018faf)
 
+#Checking benchmark numbers 
+These numbers were provided by PO, so I performed some analysis and got the appropriate matching insight according to the data provided
+![Screenshot 2024-11-24 004038](https://github.com/user-attachments/assets/7a985f53-c6a4-4078-a4f3-4845e123ed59)
+# Matched the Benchmark Number provided sucessfully
+![Screenshot 2024-11-24 003916](https://github.com/user-attachments/assets/d20c7746-b1a8-4146-94f7-302399eaabb4)
+
+
+
 
 
 
